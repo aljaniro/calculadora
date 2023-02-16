@@ -1,0 +1,33 @@
+.container{
+  width: 400px;
+  height: 500px;
+  margin-top: 20px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px #870000 dashed;
+  flex-direction: column;
+}
+.titulo{
+align-self: start;
+justify-self: start;
+color: #870000;
+}
+.input-group{
+  margin-top: 5px;
+}
+.input-group-text{
+  width: 130px;
+  background: #870000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #190A05, #870000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #190A05, #870000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+color: white;
+font-weight: 500;
+}
+button{
+  margin: 5px;
+}
+input{
+  border-color: #870000;
+}
