@@ -1,0 +1,12 @@
+modified:   angular.json
+new file:   src/app/Componentes/navbar/navbar.component.css
+new file:   src/app/Componentes/navbar/navbar.component.html
+new file:   src/app/Componentes/navbar/navbar.component.spec.ts
+new file:   src/app/Componentes/navbar/navbar.component.ts
+new file:   src/app/Componentes/procesos/calculadora.component.css
+new file:   src/app/Componentes/procesos/calculadora.component.html
+new file:   src/app/Componentes/procesos/calculadora.component.spec.ts
+new file:   src/app/Componentes/procesos/calculadora.component.ts
+modified:   src/app/app.component.html
+modified:   src/app/app.module.ts
+modified:   src/index.html
